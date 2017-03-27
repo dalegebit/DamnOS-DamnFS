@@ -1,5 +1,7 @@
 # DamnOS + DamnFS
 
+DamnOS is an operating system based on MIT 6.828 JOS , and DamnFS is just a self-designed brained-fucked simple ext-like File System that DamnOS relies on.
+
 >This is a simple combination of DamnOS and DamnFS  like:
 
 ```
